@@ -1,0 +1,9 @@
+{
+  "reminder": {
+    "title": "Welcome to the reminder section of the {{module}} module"
+  },
+  "welcome": "Welcome!",
+  "sample-text": "Sample <bold><italic>text</italic></bold>.",
+  "changed": "You have changed the language {{count}} time",
+  "changed_plural": "You have changed the language {{count}} times"
+}
