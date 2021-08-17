@@ -1,0 +1,4 @@
+POEdit - kræver conversion mellem .json og .pot filer
+POEditor - onlineeditor, hvor filerne skal importeres og eksporteres
+Locize - onlineeditor, hvor filerne skal importeres og eksporteres
+BabelEdit - native program som kan ændre i filerne direkte

@@ -1,9 +1,9 @@
 {
-  "reminder": {
-    "title": "Velkommen remindersektionen af {{module}}modulet"
-  },
-  "welcome": "Velkommen!",
-  "sample-text": "Eksempel på <bold><italic>tekst</italic></bold>.",
-  "changed": "Du har skiftet sprog {{count}} gang",
-  "changed_plural": "Du har skiftet sprog {{count}} gange"
+	"changed": "Du har skiftet sprog {{count}} gang",
+	"changed_plural": "Du har skiftet sprog {{count}} gange",
+	"reminder": {
+		"title": "Velkommen remindersektionen af {{module}}modulet"
+	},
+	"sample-text": "Eksempel på <bold><italic>tekst</italic></bold>.",
+	"welcome": "Velkommen!"
 }

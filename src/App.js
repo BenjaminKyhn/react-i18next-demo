@@ -1,5 +1,5 @@
 import './App.css';
-import {useTranslation, Trans, initReactI18next} from "react-i18next";
+import {useTranslation, Trans} from "react-i18next";
 import React, { useState, Suspense } from "react";
 import i18next from "i18next";
 
